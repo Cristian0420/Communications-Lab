@@ -1,6 +1,6 @@
 # Communications-Lab :earth_americas:
 > Report Repository: Cristian Peña, Cristian Hernandez 
 
-![Photo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gnuradio_logo.svg/1280px-Gnuradio_logo.svg.png)
-
-
+<p align="center">
+<img src="https://github.com/gnuradio/gnuradio/blob/main/docs/gnuradio.png" width="70%" />
+</p>
